@@ -4,9 +4,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.max-viewport {
+.transparent {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.max-viewport{
   min-height: 100vh;
 }
+
 
 #banner,
 #skills {
@@ -15,6 +20,7 @@ body {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 
 .naslov {
@@ -22,7 +28,7 @@ body {
 }
 
 .naslov h1 {
-  text-align: center
+  text-align: center;
 }
 
 .progress-title {
