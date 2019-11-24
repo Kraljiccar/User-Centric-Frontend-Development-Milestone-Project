@@ -75,4 +75,9 @@ body {
   transform: rotate(35deg)
 }
 
-
+.img-thumbnail {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
