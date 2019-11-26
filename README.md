@@ -1,6 +1,6 @@
 # User-Centric-Frontend-Development-Milestone-Project
 
-This is my portfolio website to present my current knowlage. The portfolio highlights five projects that cover HTML5, CSS3 and bootstrap, as well as including a bit about myself, my coding skills, and a contact form. 
+This is my portfolio website to present my current knowladge. This is my first website that cover HTML5, CSS3 and bootstrap, as well as including a bit about myself, my coding skills, and a contact form. 
 
 ## UX
 My goal in the design was to make it as easy as possible to access information on the site, while striving for a minimalist design.
@@ -13,7 +13,7 @@ My goal in the design was to make it as easy as possible to access information o
 
 
 ## Features
-This site uses the scrollSpy feature in Bootstrap. The navbar also stays collapsed regardless of the screen size.
+This site uses the scrollSpy feature in Bootstrap. The navbar becomes collapsed only on small screens.
 
 
 ## Testing
@@ -31,4 +31,3 @@ All content in the "About Me" section in this portfolio site were written by me.
 
 ### Media 
 All photos were taken from [Pexels](https://www.pexels.com/), a stock image library. 
-
