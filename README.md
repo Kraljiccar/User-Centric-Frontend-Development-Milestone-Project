@@ -1,4 +1,4 @@
-# User-Centric-Frontend-Development-Milestone-Project
+# User Centric Frontend Development Milestone Project
 
 This is my portfolio website to present my current knowladge. This is my first website that cover HTML5, CSS3 and bootstrap, as well as including a bit about myself, my coding skills, and a contact form. 
 
