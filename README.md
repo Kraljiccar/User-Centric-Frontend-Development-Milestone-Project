@@ -5,6 +5,8 @@ This is my portfolio website to present my current knowladge. This is my first w
 ## UX
 My goal in the design was to make it as easy as possible to access information on the site, while striving for a minimalist design.
 
+## Demo
+A live demo can be found [here](https://kraljiccar.github.io/User-Centric-Frontend-Development-Milestone-Project/).
 
 ## Technologies
 1. HTML
