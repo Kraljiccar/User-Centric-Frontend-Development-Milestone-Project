@@ -30,4 +30,4 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 All content in the "About Me" section in this portfolio site were written by me. 
 
 ### Media 
-All photos were taken from [Pexels](https://www.pexels.com/), a stock image library. 
+All photos were taken from [PixaBay](https://pixabay.com/), a stock image library. 
